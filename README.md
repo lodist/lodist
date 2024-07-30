@@ -1,6 +1,6 @@
 ## Hi there, I'm Loris👋
 
-I automate processes so I can spend less time doing actual work. 
+I automate processes so I can spend less time doing actual work. /n
 When I'm not doing that, I'm usually questioning my own intelligence for choosing this field
 
 ## 🚀 Technical Skills
