@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Loris👋
 
-<!--
-**lodist/lodist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy automating processes and finding ways to get even lazier.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
+- **Programming Languages:** SQL, Python, Stata, R, C, HTML5, CSS3
+- **Python Libraries:** Tensorflow, Pandas, Scikit-Learn, OpenCV, Kivy, NumPy, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **BA in Social Sciences**, University of Zürich
+  - Major in Political Science, specialization in Econometrics
+
+## 🌐 Language Skills
+- **Native:** Italian, English, German
+- **Proficient:** French, Spanish
+- **Beginner:** Chinese, Swedish, Norwegian, Danish
+
+## 📊 GitHub Stats
+![Loris Di Stefano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lodist&show_icons=true&theme=radical)
+
+Feel free to explore my repositories!
+
