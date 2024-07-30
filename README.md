@@ -1,6 +1,7 @@
 ## Hi there, I'm Loris👋
 
-I enjoy automating processes and finding ways to get even lazier.
+I automate processes so I can spend less time doing actual work. 
+When I'm not doing that, I'm usually questioning my own intelligence for choosing this field
 
 ## 🚀 Technical Skills
 - **Programming Languages:** SQL, Python, Stata, R, C, HTML5, CSS3
