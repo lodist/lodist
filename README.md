@@ -6,7 +6,7 @@ When I'm not doing that, I'm usually questioning my own intelligence for activel
 
 ## 🚀 Technical Skills
 - **Programming Languages:** SQL, Python, Stata, R, C, HTML5, CSS3
-- **Python Libraries:** Tensorflow, Pandas, Scikit-Learn, OpenCV, Kivy, NumPy, Matplotlib
+- **Python Libraries:** Tensorflow, Pandas, Scikit-Learn, OpenCV, Kivy, NumPy, Matplotlib and more...
 
 ## 🎓 Education
 - **BA in Social Sciences**, University of Zürich
