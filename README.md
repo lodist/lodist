@@ -4,7 +4,7 @@ I like to automate processes so I can spend less time doing actual work
 
 ## 🚀 Technical Skills
 - **Programming Languages:** SQL, Python, Stata, R, C, HTML5, CSS3
-- **Python Libraries:** Tensorflow, Pandas, Scikit-Learn, Keras, OpenCV, Kivy, NumPy, Matplotlib and more...
+- **Python Libraries:** Tensorflow, Pandas, PySpark, Scikit-Learn, Keras, Transformers, OpenCV, Kivy, NumPy, Matplotlib and more...
 
 ## 🎓 Education
 - **BA in Social Sciences**, University of Zürich
