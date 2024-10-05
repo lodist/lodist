@@ -16,7 +16,7 @@ I like to automate processes so I can spend less time doing actual work
 - **Beginner:** Chinese, Swedish, Norwegian, Danish
 
 ## 📊 GitHub Stats
-![Loris Di Stefano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lodist&show_icons=true&theme=radical)
+![Loris Di Stefano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lodist&show_icons=true&theme=radical&v=1)
 
 Feel free to explore my repositories!
 
