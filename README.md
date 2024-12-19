@@ -1,19 +1,14 @@
-## Hi there, I'm Loris👋
+👋 Hi there, I'm Loris
 
-I like to automate processes so I can spend less time doing actual work
+🔭 Automating processes to spend less time doing actual work
 
-## 🚀 Technical Skills
-- **Programming Languages:** SQL, Python, Stata, R, C, HTML5, CSS3
-- **Python Libraries:** Tensorflow, Pandas, PySpark, Scikit-Learn, Keras, Transformers, OpenCV, Kivy, NumPy, Matplotlib and more...
+🌱 Currently exploring: Deep Reinforcement Learning (DRL) and code agents
 
-## 🎓 Education
-- **BA in Social Sciences**, University of Zürich
-  - Major in Political Science, specialization in Econometrics
+⚡ Experienced with: SQL, Python, Stata, R, C, HTML5, CSS3
 
-## 🌐 Language Skills
-- **Native:** Italian, English, German
-- **Proficient:** French, Spanish
-- **Beginner:** Chinese, Swedish, Norwegian, Danish
+📚 Libraries: Tensorflow, Pandas, PySpark, Scikit-Learn, Keras, Transformers, OpenCV, Kivy, NumPy, Matplotlib, Gym and more
+
+🌍 Languages: Italian, English, German, French, Spanish, Chinese, Swedish, Norwegian, Danish
 
 Feel free to explore my repositories!
 
