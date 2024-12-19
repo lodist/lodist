@@ -1,5 +1,3 @@
-👋 Hi there, I'm Loris
-
 🔭 Automating processes to spend less time doing actual work
 
 🌱 Currently exploring: Deep Reinforcement Learning (DRL) and code agents
