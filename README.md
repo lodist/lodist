@@ -1,4 +1,4 @@
-🔭 Automating processes to spend less time doing actual work
+🔭 Automating processes to spend less time doing tedious work
 
 🌱 Currently exploring: Deep Reinforcement Learning (DRL) and code agents
 
