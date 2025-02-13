@@ -1,6 +1,6 @@
-🔭 Automating processes to spend less time doing tedious work
-
 🌱 Currently exploring: Deep Reinforcement Learning (DRL) and code agents
+
+🔭 Automating processes to spend less time doing tedious work
 
 ⚡ Experienced with: SQL, Python, Stata, R, C, HTML5, CSS3
 
