@@ -2,6 +2,6 @@
 
 🍄🌱 Currently working on fung.es
 
-⚡ Currently exploring: Deep Reinforcement Learning (DRL) and code agents
+⚡ Now exploring: Deep Reinforcement Learning (DRL) and code agents
 
 Feel free to explore my repositories!
